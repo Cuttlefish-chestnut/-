@@ -1,0 +1,16 @@
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+.all{
+	width: 100%;
+	height: 100%;
+}
+.align{
+	width: 80%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #f8fef5;
+}
