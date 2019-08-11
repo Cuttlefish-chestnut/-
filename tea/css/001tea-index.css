@@ -9,8 +9,43 @@ body{
 	height: 100%;
 }
 .align{
+	position: relative;
 	width: 80%;
 	height: 100%;
 	margin: 0 auto;
 	background-color: #f8fef5;
+}
+.tea{
+	float: left;
+	height: 300px;
+	width: 300px;
+	background-color:#66ccff;
+}
+.tea1,.tea2,.tea3{
+	position: absolute;
+	top:10%
+	
+}
+.tea1{
+	left: 8%;
+}
+.tea2{
+	left: 38%;
+}
+.tea3{
+	left: 68%;
+}
+.tea4,.tea5,.tea6{
+	position: absolute;
+	top:50%
+	
+}
+.tea4{
+	left: 8%;
+}
+.tea5{
+	left: 38%;
+}
+.tea6{
+	left: 68%;
 }
